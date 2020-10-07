@@ -13,3 +13,11 @@ EFI是根据本人配置搭配,不一定适合所有人
         |内存    | Asgard 16GB |
         |硬盘    | 金士顿(Kingston) 500GB SSD固态硬盘 M.2|
         |无线网卡|AX200|
+| 设备 |            型号             |
+| :--: | :-------------------------: |
+| CPU  |      i5-10500es(qsrk)       |
+| 主板 |        Onda B460SD4         |
+| 显卡 |   Intel UHD Graphics 630    |
+|      | AMD Radeon RX 580 4G 2304sp |
+| 无线 |        Wi-Fi 6 AX200        |
+| 蓝牙 |     Wi-Fi 6 AX200 自带      |
